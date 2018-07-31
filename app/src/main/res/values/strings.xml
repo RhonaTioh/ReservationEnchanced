@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ReservationEnchanced</string>
+    <string name="name">Name</string>
+    <string name="telephone">Telephone</string>
+    <string name="size">Size</string>
+    <string name="day">Day</string>
+    <string name="time">Time</string>
+    <string name="Reserve">RESERVE</string>
+    <string name="reset">RESET</string>
+</resources>
